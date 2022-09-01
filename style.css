@@ -17,16 +17,15 @@ body {
 }
 
 .conteudo-quadrado {
-    
-    margin-top: 40px;
-    margin-left: 35px;
-    width: 1300px;
+    margin-top: 50px;
+    margin-left: 190px;
+    width: 1500px;
 	height: 1300px;
 	background-color: #DCDCDC;
 }
 
 .conteudo-quadrado-cabecalho {
-    width: 1300px;
+    width: 1500px;
 	height: 45px;
 	background-color: green;
 }
@@ -37,6 +36,33 @@ body {
     width: 230px;
     margin-top: 40px;
     margin-left: 90px;
+}
+
+.conteudo-quadrado-direito-nome {
+    padding-top: 20px;
+    padding-left: 145px;
+}
+
+.conteudo-quadrado-direito-texto {
+    text-align: justify;
+    padding-top: 20px;
+    padding-left: 95px;
+}
+
+.conteudo-quadrado-retangulos-1{
+    border-radius: 8px;
+    width: 400px;
+	height: 45px;
+	background-color: pink;
+    margin-top: 30px;
+    position: absolute;
+    top: 90%;
+    left: 38%;
+}
+
+.conteudo-quadrado-retangulos-1-titulo {
+    padding-top: 15px;
+    text-align: center;
 }
 
 .rodape {
