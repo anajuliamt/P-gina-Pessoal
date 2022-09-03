@@ -38,6 +38,10 @@ body {
     color: white;
 }
 
+.link-cabecalho-titulo {
+    color: white;
+}
+
 .conteudo-quadrado-frase {
     font-family: 'Signika Negative', sans-serif;
     font-size: 18px;
@@ -113,7 +117,7 @@ body {
     text-align: center;
     color: black;
     font-family: 'Signika Negative', sans-serif;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .conteudo-quadrado-retangulos-1{

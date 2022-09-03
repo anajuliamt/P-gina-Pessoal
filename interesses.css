@@ -20,7 +20,7 @@ body {
     margin-top: 40px;
     margin-left: 45px;
     width: 1430px;
-	height: 930px;
+	height: 1250px;
 	background-color: #DDD8D5;
 }
 
@@ -38,11 +38,15 @@ body {
     color: white;
 }
 
+.link-cabecalho-titulo {
+    color: white;
+}
+
 .frase-livros {
     font-family: 'Signika Negative', sans-serif;
-    font-size: 18px;
+    font-size: 19px;
     position: absolute;
-    top: 18%;
+    top: 20%;
     left: 8%;
 }
 
@@ -54,44 +58,135 @@ body {
     left: 15%;
 }
 
-.vergonha-titulo {
-    font-family: 'Signika Negative', sans-serif;
-    font-size: 14px;
-    position: absolute;
-    top: 60%;
-    left: 18.4%;
-}
-
-.vergonha-autora {
-    font-family: 'Signika Negative', sans-serif;
-    font-size: 14px;
-    position: absolute;
-    top: 62.5%;
-    left: 17%;
-}
-
 .million-capa {
     height: 248px;
     width: 162px;
     position: absolute;
     top: 26%;
-    left: 35%;
-}
-
-.million-titulo {
-    font-family: 'Signika Negative', sans-serif;
-    font-size: 14px;
-    position: absolute;
-    top: 60%;
     left: 34%;
 }
 
-.million-autora {
-    font-family: 'Signika Negative', sans-serif;
-    font-size: 14px;
+
+.terms-capa {
+    height: 248px;
+    width: 162px;
     position: absolute;
-    top: 62.5%;
-    left: 37%;
+    top: 26%;
+    left: 54%;
+}
+
+
+.redeemed-capa {
+    height: 248px;
+    width: 162px;
+    position: absolute;
+    top: 26%;
+    left: 74%;
+}
+
+.frase-musicas {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 19px;
+    position: absolute;
+    top: 75%;
+    left: 8%;
+}
+
+.mirrorball {
+    border-radius: 12px;
+    width: 280px;
+	height: 180px;
+	background-color: #272727;
+    position: absolute;
+    top: 82%;
+    left: 15%;
+}
+
+.photograph {
+    border-radius: 12px;
+    width: 280px;
+	height: 180px;
+	background-color: #272727;
+    position: absolute;
+    top: 82%;
+    left: 41%;
+}
+
+.golden {
+    border-radius: 12px;
+    width: 280px;
+	height: 180px;
+	background-color: #272727;
+    position: absolute;
+    top: 82%;
+    left: 67%;
+}
+
+.imagem {
+    position: absolute;
+    top: 8%;
+    left: 5%;
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
+
+.titulo {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 12px;
+    color: white;
+    position: absolute;
+    top: 43%;
+    left: 63%;
+}
+
+.artista {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 10px;
+    color: lightgray;
+    position: absolute;
+    top: 53%;
+    left: 63%;
+}
+
+.frase-filmes {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 19px;
+    position: absolute;
+    top: 119%;
+    left: 8%;
+}
+
+.imagem-fast {
+    height: 248px;
+    width: 162px;
+    position: absolute;
+    top: 125%;
+    left: 15%;
+}
+
+.imagem-juntos {
+    height: 248px;
+    width: 162px;
+    position: absolute;
+    top: 125%;
+    left: 34%;
+}
+
+.imagem-como {
+    height: 248px;
+    width: 162px;
+    position: absolute;
+    top: 125%;
+    left: 54%;
+}
+
+.imagem-10coisas {
+    height: 248px;
+    width: 162px;
+    position: absolute;
+    top: 125%;
+    left: 74%;
 }
 
 .rodape {
