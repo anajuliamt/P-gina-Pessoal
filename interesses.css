@@ -27,7 +27,7 @@ body {
 .conteudo-quadrado-cabecalho {
     width: 1430px;
 	height: 45px;
-	background-color:#4E4B44;
+	background-color:#302A27;
 }
 
 .conteudo-quadrado-cabecalho-titulo {
@@ -209,7 +209,7 @@ body {
 .rodape {
     margin-top: 48px;
     border-top: 0.4px solid #000000;
-    width: 100%;
+    width: 100%px;
 }
 
 .rodape-imagem {
