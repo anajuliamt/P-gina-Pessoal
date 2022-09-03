@@ -94,32 +94,32 @@ body {
 
 .mirrorball {
     border-radius: 12px;
-    width: 280px;
+    width: 300px;
 	height: 180px;
 	background-color: #272727;
     position: absolute;
     top: 82%;
-    left: 15%;
+    left: 13%;
 }
 
 .photograph {
     border-radius: 12px;
-    width: 280px;
+    width: 300px;
 	height: 180px;
 	background-color: #272727;
     position: absolute;
     top: 82%;
-    left: 41%;
+    left: 39%;
 }
 
 .golden {
     border-radius: 12px;
-    width: 280px;
+    width: 300px;
 	height: 180px;
 	background-color: #272727;
     position: absolute;
     top: 82%;
-    left: 67%;
+    left: 65%;
 }
 
 .imagem {
@@ -137,7 +137,7 @@ body {
     color: white;
     position: absolute;
     top: 43%;
-    left: 63%;
+    left: 60%;
 }
 
 .artista {
@@ -146,7 +146,24 @@ body {
     color: lightgray;
     position: absolute;
     top: 53%;
-    left: 63%;
+    left: 60%;
+}
+
+.tempo {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 9px;
+    color: lightgray;
+    position: absolute;
+    top: 84%;
+    left: 75%;
+}
+
+.icone {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 77%;
+    left: 85%;
 }
 
 .frase-filmes {
