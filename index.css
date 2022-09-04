@@ -20,14 +20,14 @@ body {
     margin-top: 40px;
     margin-left: 45px;
     width: 1430px;
-	height: 930px;
-	background-color: #EFECEA;
+    height: 930px;
+    background-color: #EFECEA;
 }
 
 .conteudo-quadrado-cabecalho {
     width: 1430px;
 	height: 45px;
-	background-color: black;
+	background-color: #4E4B44;
 }
 
 .conteudo-quadrado-cabecalho-titulo {
